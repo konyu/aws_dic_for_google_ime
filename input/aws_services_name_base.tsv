@@ -1,0 +1,164 @@
+接頭語	サービス名	呼び名			
+Amazon	EC2	いーしー２	EC2		
+AWS	Batch	ばっち			
+Amazon	ECR	いーしーあーる	ECR		
+Amazon	ECS	いーしーえす	ECS		
+Amazon	EKS	いーけーえす	EKS		
+AWS	Elastic Beanstalk	えらすてぃっくびーんずとーく	びーんずとーく		
+AWS	Lambda	らむだ			
+AWS	Launch Wizard	ろーんちうぃざーど			
+Amazon	Lightsail	らいとせいる			
+AWS	ParallelCluster	ぱられるくらすたー			
+AWS	Serverless Application Model (AWS SAM)	さーばれすあぷりけーしょんもでる	ざむ	SAM	
+AWS	Serverless Application Repository	さーばれすあぷりけーしょんりぽじとり			
+Amazon	S3	えすすりー	えす３	S3	
+AWS	Backup	ばっくあっぷ			
+Amazon	EBS	いーびーえす	EBS		
+Amazon	EFS	いーえふえす	EFS		
+Amazon	FSx	えふえすえっくす	FSx		
+Amazon	S3 Glacier	えすすりーぐれーしゃー	ぐれーしゃー		
+AWS	Snowball	すのーぼーる			
+AWS	Storage Gateway	すとれーじげーとうぇい			
+Amazon	Aurora	おーろら			
+Amazon	DocumentDB	どきゅめんとでぃーびー	どきゅめんとDB		
+Amazon	DynamoDB	だいなもでぃーびー			
+Amazon	ElastiCache	えらすてぃっくきゃっしゅ			
+Amazon	Neptune	ねぷちゅーん			
+Amazon	QLDB	きゅーえるでぃーびー	QLDB		
+Amazon	RDS	あーるでぃーびー	RDS		
+Amazon	Redshift	れっどしふと			
+AWS	Cloud9	くらうどないん	くらうど９		
+AWS	CodeBuild	こーどびるど			
+AWS	CodeCommit	こーどこみっと			
+AWS	CodeDeploy	こーどでぷろい			
+AWS	CodePipeline	こーどぱいぷらいん			
+AWS	CodeStar	こーどすたー			
+AWS	X-Ray	えっくすれい	Xrei		
+AWS	Identity & Access Management (AWS IAM)	あいあむ	IAM		
+AWS	Artifact	あーてぃふぁくと			
+Amazon	Cognito	こぐにと			
+AWS	Directory Service	でぃれくとりーさーびす			
+AWS	Firewall Manager	ふぁいあーうぉーるまねーじゃ			
+Amazon	Cloud Directory	くらうどてぃくしょなり			
+Amazon	GuardDuty	がーどどゅーてぃー			
+Amazon	Inspector	いんすぺくた			
+Amazon	Macie	めいしー			
+AWS	Resource Access Manager (AWS RAM)	りそーすあくせすまねーじゃ	RAM		
+AWS	Secrets Manager	しーくれっとまねーじゃ			
+AWS	Security Hub	せきゅてぃはぶ			
+AWS	Shield	しーるど			
+AWS	Single Sign-On	しんぐるさいんおん			
+AWS	WAF	だぶりゅーえーえふ	わふ	WAF	
+AWS	CloudHSM	くらうどえいちえすえむ	くらうどHMS		
+AWS	Key Management Service (AWS KMS)	キーマネージメントサービス	けーえむえす	KMS	
+AWS	Crypto Tools	くりぷとつーるず			
+AWS	Certificate Manager	さーてぃふぃけーとまねーじゃ			
+AWS	Certificate Manager Private Certificate Authority	さーてぃふぃけーとまねーじゃぷらいべーとおーそりてぃー			
+Amazon	Comprehend	こんぷりへんど			
+AWS	Deep Learning AMI	でぃーぶらーにんぐAMI	でぃーぶらーにんぐえーえむあい		
+AWS	DeepLens	でぃーぷれんず			
+AWS	DeepRacer	でぃーぷれーさー			
+Amazon	Elastic Inference	えらすてぃっくいんふぁれんす			
+Amazon	Forecast	ふぉーきゃすと			
+Amazon	Lex	れっくす			
+Amazon	Machine Learning	ましんらーにんぐ			
+Amazon	Personalize	ぱーそならいず			
+Amazon	Polly	ぽりー			
+Amazon	Rekognition	れくごにくしょん			
+Amazon	SageMaker	せーじめーかー			
+Amazon	Textract	てきすとらくと			
+Amazon	Transcribe	とらんすくらいぶ			
+Amazon	Translate	とらんすれーと			
+AWS	Auto Scaling	おーとすけーりんぐ			
+AWS	Chatbot	ちゃっとぼっと			
+AWS	CloudFormation	くらうどふぉーめーしょん			
+AWS	CloudTrail	くらうどとれいる			
+Amazon	CloudWatch	くらうどうぉっち			
+AWS	Config	こんふぃぐ			
+AWS	Control Tower	こんとろーるたわー			
+Amazon	Data Lifecycle Manager	でーたらいふさいくるまねーじゃ			
+AWS	Health	へるす			
+AWS	License Manager	らいせんすまねーじゃ			
+AWS	Management Console	まねーじめんとこんそーる			
+AWS	OpsWorks	おぷすわーくす			
+AWS	Organizations	おーがにぜーしょん			
+AWS	Resource Groups	りそーすぐるーぷす	りそーすぐるーぷ		
+AWS	Resource Groups Tagging API	りそーすぐるーぷすたぎんぐえーぴーあい	りそーすぐるーぷたぎんぐえーぴーあい		
+AWS	Service Catalog	さーびすかたろぐ			
+	Service Quotas	さーびすくおーたす			
+AWS	Systems Manager	しすてむすまねーじゃ	しすてむまねーじゃ		
+AWS	Trusted Advisor	とらすてぃっどあどばいざー			
+AWS	Well-Architected Tool	うぇるあーきてくてっどつーる			
+AWS	Application Discovery Service	あぷりけーしょんでぃすかばりーさーびす			
+AWS	Database Migration Service	でーたべーすまいぐれーしょんさーびす			
+AWS	DataSync	でーたしんく			
+AWS	Migration Hub	まいぐれーしょんはぶ			
+AWS	Schema Conversion Tool	すきーまこんばーじょんつーる			
+AWS	Server Migration Service	さーばまいぐれーしょんさーびす			
+AWS	Snowball	すのーぼーる			
+AWS	Transfer for SFTP	とらんすふぁーふぉーえすえふてぃーぴー	とらんすふぁーふぉーSFTP	SFTP	
+AWS	Amplify	あんぷりふぁい			
+AWS	AppSync	あっぷしんく			
+AWS	Device Farm	でばいすふぁーむ			
+Amazon	Pinpoint	ぴんぽいんと			
+Amazon	SNS	えすえぬえす	SNS		
+Amazon	API Gateway	えーぴーあいげーとうぇい	APIげーとうぇい		
+AWS	App Mesh	あっぷめっしゅ			
+AWS	Cloud Map	くらうどまっぷ			
+Amazon	CloudFront	くらうどふろんと			
+AWS	Direct Connect	だいれくとこねくと			
+	Elastic Load Balancing	えらすてぃっくろーどばらんしんぐ	ELB		
+AWS	Global Accelerator	ぐろーばるあくせられーたー			
+Amazon	Route 53	るーと５３			
+Amazon	VPC	ぶいぴーしー	VPC		
+AWS	VPN	ぶいぴーえぬ	VPN		
+Amazon	Elastic Transcoder	えらすてぃっくとらんすこーだー			
+AWS	Elemental MediaConnect	えれめんたるめでぃあこねくと			
+AWS	Elemental MediaConvert	えれめんたるめでぃあこんばーと			
+AWS	Elemental MediaLive	えれめんたるめでぃあらいぶ			
+AWS	Elemental MediaPackage	えれめんたるめでぃあぱっけーじ			
+AWS	Elemental MediaStore	えれめんたるめでぃあすとあ			
+AWS	Elemental MediaTailor	えれめんたるめでぃあていらー			
+Amazon	WorkSpaces	わーくすぺーしす	わーくすぺーす		
+Amazon	AppStream 2.0	あっぷすとりーむ			
+Amazon	WorkDocs	わーくどっくす	わーくどっく		
+Amazon	WorkLink	わーくりんく			
+Amazon	WAM	わむ	WAM		
+Amazon	Athena	あてな			
+Amazon	CloudSearch	くらうどさーち			
+AWS	Data Exchange	でーたえくすちぇんじ			
+AWS	Data Pipeline	でーたぱいぷらいん			
+Amazon	Elasticsearch Service	えらすてぃっくさーびす			
+Amazon	EMR	いーえむあーる	EMR		
+AWS	Glue	ぐるー			
+Amazon	Kinesis	きねしす			
+AWS	Lake Formation	れいくふぉーめーしょん			
+Amazon	MSK	えむえすけー	MSK		
+Amazon	QuickSight	くいっくさいと			
+Amazon	Redshift	れっどしふと			
+Amazon	EventBridge	いべんとぶりっじ			
+Amazon	MQ	えむきゅー	MQ		
+Amazon	SNS	えすえぬえす	SNS		
+Amazon	SQS	えすきゅーえす	SQS		
+AWS	Step Functions	すてっぷふぁんくしょんず	すてっぷふぁんくしょん		
+Amazon	SWF	えすだぶりゅーえふ	SWF		
+Amazon	Chime	ちゃいむ			
+Amazon	WorkMail	わーくめーる			
+AWS	Ground Station	ぐらうんどすてーしょん			
+AWS	RoboMaker	ろぼめーかー			
+Amazon	Managed Blockchain	まねーじどぶろっくちぇーん			
+Amazon	GameLift	げーむりふと			
+Amazon	Lumberyard	らんばーやーど			
+AWS	IoT Core	あいおーてぃーこあ	IOTこあ		
+Amazon	FreeRTOS	ふりーあーるてぃーおーえす	ふりーRTOS		
+AWS	IoT Analytics	あいおーてぃーあなりてぃくす	IOTあなりてぃくす		
+AWS	IoT Device Defender	あいおーてぃーでばいすでぃふぇんだー	IOTでばいすでぃふぇんだー		
+AWS	IoT Device Management	あいおーてぃーでばいすまねーじめんと	IOTでばいすまねーじめんと		
+AWS	IoT Events	あいおーてぃーいべんつ	IOTいべんつ	あいおーてぃーいべんと	IOTいべんと
+AWS	IoT Greengrass	あいおーてぃーぐりーんぐらす	IOTぐりーんぐらす		
+AWS	IoT SiteWise	あいおーてぃーさいとわいず	IOTさいとわいず		
+AWS	IoT Things Graph	あいおーてぃーしんぐすぐらふ	IOTしんぐすぐらふ		
+AWS	IoT 1-Click	あいおーてぃーわんくりっく	IOT1くりっく		
+Amazon	Connect	こねくと			
+Amazon	Simple Email Service (Amazon SES)	しんぷるいーめーるさーびす	えすいーえす	SES	
+Amazon	Sumerian	すめりあん			

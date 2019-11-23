@@ -1,0 +1,223 @@
+いーしー２	Amazon EC2	名詞
+EC2	Amazon EC2	名詞
+ばっち	AWS Batch	名詞
+いーしーあーる	Amazon ECR	名詞
+ECR	Amazon ECR	名詞
+いーしーえす	Amazon ECS	名詞
+ECS	Amazon ECS	名詞
+いーけーえす	Amazon EKS	名詞
+EKS	Amazon EKS	名詞
+えらすてぃっくびーんずとーく	AWS Elastic Beanstalk	名詞
+びーんずとーく	AWS Elastic Beanstalk	名詞
+らむだ	AWS Lambda	名詞
+ろーんちうぃざーど	AWS Launch Wizard	名詞
+らいとせいる	Amazon Lightsail	名詞
+ぱられるくらすたー	AWS ParallelCluster	名詞
+さーばれすあぷりけーしょんもでる	AWS Serverless Application Model (AWS SAM)	名詞
+ざむ	AWS Serverless Application Model (AWS SAM)	名詞
+SAM	AWS Serverless Application Model (AWS SAM)	名詞
+さーばれすあぷりけーしょんりぽじとり	AWS Serverless Application Repository	名詞
+えすすりー	Amazon S3	名詞
+えす３	Amazon S3	名詞
+S3	Amazon S3	名詞
+ばっくあっぷ	AWS Backup	名詞
+いーびーえす	Amazon EBS	名詞
+EBS	Amazon EBS	名詞
+いーえふえす	Amazon EFS	名詞
+EFS	Amazon EFS	名詞
+えふえすえっくす	Amazon FSx	名詞
+FSx	Amazon FSx	名詞
+えすすりーぐれーしゃー	Amazon S3 Glacier	名詞
+ぐれーしゃー	Amazon S3 Glacier	名詞
+すのーぼーる	AWS Snowball	名詞
+すとれーじげーとうぇい	AWS Storage Gateway	名詞
+おーろら	Amazon Aurora	名詞
+どきゅめんとでぃーびー	Amazon DocumentDB	名詞
+どきゅめんとDB	Amazon DocumentDB	名詞
+だいなもでぃーびー	Amazon DynamoDB	名詞
+えらすてぃっくきゃっしゅ	Amazon ElastiCache	名詞
+ねぷちゅーん	Amazon Neptune	名詞
+きゅーえるでぃーびー	Amazon QLDB	名詞
+QLDB	Amazon QLDB	名詞
+あーるでぃーびー	Amazon RDS	名詞
+RDS	Amazon RDS	名詞
+れっどしふと	Amazon Redshift	名詞
+くらうどないん	AWS Cloud9	名詞
+くらうど９	AWS Cloud9	名詞
+こーどびるど	AWS CodeBuild	名詞
+こーどこみっと	AWS CodeCommit	名詞
+こーどでぷろい	AWS CodeDeploy	名詞
+こーどぱいぷらいん	AWS CodePipeline	名詞
+こーどすたー	AWS CodeStar	名詞
+えっくすれい	AWS X-Ray	名詞
+Xrei	AWS X-Ray	名詞
+あいあむ	AWS Identity & Access Management (AWS IAM)	名詞
+IAM	AWS Identity & Access Management (AWS IAM)	名詞
+あーてぃふぁくと	AWS Artifact	名詞
+こぐにと	Amazon Cognito	名詞
+でぃれくとりーさーびす	AWS Directory Service	名詞
+ふぁいあーうぉーるまねーじゃ	AWS Firewall Manager	名詞
+くらうどてぃくしょなり	Amazon Cloud Directory	名詞
+がーどどゅーてぃー	Amazon GuardDuty	名詞
+いんすぺくた	Amazon Inspector	名詞
+めいしー	Amazon Macie	名詞
+りそーすあくせすまねーじゃ	AWS Resource Access Manager (AWS RAM)	名詞
+RAM	AWS Resource Access Manager (AWS RAM)	名詞
+しーくれっとまねーじゃ	AWS Secrets Manager	名詞
+せきゅてぃはぶ	AWS Security Hub	名詞
+しーるど	AWS Shield	名詞
+しんぐるさいんおん	AWS Single Sign-On	名詞
+だぶりゅーえーえふ	AWS WAF	名詞
+わふ	AWS WAF	名詞
+WAF	AWS WAF	名詞
+くらうどえいちえすえむ	AWS CloudHSM	名詞
+くらうどHMS	AWS CloudHSM	名詞
+キーマネージメントサービス	AWS Key Management Service (AWS KMS)	名詞
+けーえむえす	AWS Key Management Service (AWS KMS)	名詞
+KMS	AWS Key Management Service (AWS KMS)	名詞
+くりぷとつーるず	AWS Crypto Tools	名詞
+さーてぃふぃけーとまねーじゃ	AWS Certificate Manager	名詞
+さーてぃふぃけーとまねーじゃぷらいべーとおーそりてぃー	AWS Certificate Manager Private Certificate Authority	名詞
+こんぷりへんど	Amazon Comprehend	名詞
+でぃーぶらーにんぐAMI	AWS Deep Learning AMI	名詞
+でぃーぶらーにんぐえーえむあい	AWS Deep Learning AMI	名詞
+でぃーぷれんず	AWS DeepLens	名詞
+でぃーぷれーさー	AWS DeepRacer	名詞
+えらすてぃっくいんふぁれんす	Amazon Elastic Inference	名詞
+ふぉーきゃすと	Amazon Forecast	名詞
+れっくす	Amazon Lex	名詞
+ましんらーにんぐ	Amazon Machine Learning	名詞
+ぱーそならいず	Amazon Personalize	名詞
+ぽりー	Amazon Polly	名詞
+れくごにくしょん	Amazon Rekognition	名詞
+せーじめーかー	Amazon SageMaker	名詞
+てきすとらくと	Amazon Textract	名詞
+とらんすくらいぶ	Amazon Transcribe	名詞
+とらんすれーと	Amazon Translate	名詞
+おーとすけーりんぐ	AWS Auto Scaling	名詞
+ちゃっとぼっと	AWS Chatbot	名詞
+くらうどふぉーめーしょん	AWS CloudFormation	名詞
+くらうどとれいる	AWS CloudTrail	名詞
+くらうどうぉっち	Amazon CloudWatch	名詞
+こんふぃぐ	AWS Config	名詞
+こんとろーるたわー	AWS Control Tower	名詞
+でーたらいふさいくるまねーじゃ	Amazon Data Lifecycle Manager	名詞
+へるす	AWS Health	名詞
+らいせんすまねーじゃ	AWS License Manager	名詞
+まねーじめんとこんそーる	AWS Management Console	名詞
+おぷすわーくす	AWS OpsWorks	名詞
+おーがにぜーしょん	AWS Organizations	名詞
+りそーすぐるーぷす	AWS Resource Groups	名詞
+りそーすぐるーぷ	AWS Resource Groups	名詞
+りそーすぐるーぷすたぎんぐえーぴーあい	AWS Resource Groups Tagging API	名詞
+りそーすぐるーぷたぎんぐえーぴーあい	AWS Resource Groups Tagging API	名詞
+さーびすかたろぐ	AWS Service Catalog	名詞
+さーびすくおーたす	Service Quotas	名詞
+しすてむすまねーじゃ	AWS Systems Manager	名詞
+しすてむまねーじゃ	AWS Systems Manager	名詞
+とらすてぃっどあどばいざー	AWS Trusted Advisor	名詞
+うぇるあーきてくてっどつーる	AWS Well-Architected Tool	名詞
+あぷりけーしょんでぃすかばりーさーびす	AWS Application Discovery Service	名詞
+でーたべーすまいぐれーしょんさーびす	AWS Database Migration Service	名詞
+でーたしんく	AWS DataSync	名詞
+まいぐれーしょんはぶ	AWS Migration Hub	名詞
+すきーまこんばーじょんつーる	AWS Schema Conversion Tool	名詞
+さーばまいぐれーしょんさーびす	AWS Server Migration Service	名詞
+すのーぼーる	AWS Snowball	名詞
+とらんすふぁーふぉーえすえふてぃーぴー	AWS Transfer for SFTP	名詞
+とらんすふぁーふぉーSFTP	AWS Transfer for SFTP	名詞
+SFTP	AWS Transfer for SFTP	名詞
+あんぷりふぁい	AWS Amplify	名詞
+あっぷしんく	AWS AppSync	名詞
+でばいすふぁーむ	AWS Device Farm	名詞
+ぴんぽいんと	Amazon Pinpoint	名詞
+えすえぬえす	Amazon SNS	名詞
+SNS	Amazon SNS	名詞
+えーぴーあいげーとうぇい	Amazon API Gateway	名詞
+APIげーとうぇい	Amazon API Gateway	名詞
+あっぷめっしゅ	AWS App Mesh	名詞
+くらうどまっぷ	AWS Cloud Map	名詞
+くらうどふろんと	Amazon CloudFront	名詞
+だいれくとこねくと	AWS Direct Connect	名詞
+えらすてぃっくろーどばらんしんぐ	Elastic Load Balancing	名詞
+ELB	Elastic Load Balancing	名詞
+ぐろーばるあくせられーたー	AWS Global Accelerator	名詞
+るーと５３	Amazon Route 53	名詞
+ぶいぴーしー	Amazon VPC	名詞
+VPC	Amazon VPC	名詞
+ぶいぴーえぬ	AWS VPN	名詞
+VPN	AWS VPN	名詞
+えらすてぃっくとらんすこーだー	Amazon Elastic Transcoder	名詞
+えれめんたるめでぃあこねくと	AWS Elemental MediaConnect	名詞
+えれめんたるめでぃあこんばーと	AWS Elemental MediaConvert	名詞
+えれめんたるめでぃあらいぶ	AWS Elemental MediaLive	名詞
+えれめんたるめでぃあぱっけーじ	AWS Elemental MediaPackage	名詞
+えれめんたるめでぃあすとあ	AWS Elemental MediaStore	名詞
+えれめんたるめでぃあていらー	AWS Elemental MediaTailor	名詞
+わーくすぺーしす	Amazon WorkSpaces	名詞
+わーくすぺーす	Amazon WorkSpaces	名詞
+あっぷすとりーむ	Amazon AppStream 2.0	名詞
+わーくどっくす	Amazon WorkDocs	名詞
+わーくどっく	Amazon WorkDocs	名詞
+わーくりんく	Amazon WorkLink	名詞
+わむ	Amazon WAM	名詞
+WAM	Amazon WAM	名詞
+あてな	Amazon Athena	名詞
+くらうどさーち	Amazon CloudSearch	名詞
+でーたえくすちぇんじ	AWS Data Exchange	名詞
+でーたぱいぷらいん	AWS Data Pipeline	名詞
+えらすてぃっくさーびす	Amazon Elasticsearch Service	名詞
+いーえむあーる	Amazon EMR	名詞
+EMR	Amazon EMR	名詞
+ぐるー	AWS Glue	名詞
+きねしす	Amazon Kinesis	名詞
+れいくふぉーめーしょん	AWS Lake Formation	名詞
+えむえすけー	Amazon MSK	名詞
+MSK	Amazon MSK	名詞
+くいっくさいと	Amazon QuickSight	名詞
+れっどしふと	Amazon Redshift	名詞
+いべんとぶりっじ	Amazon EventBridge	名詞
+えむきゅー	Amazon MQ	名詞
+MQ	Amazon MQ	名詞
+えすえぬえす	Amazon SNS	名詞
+SNS	Amazon SNS	名詞
+えすきゅーえす	Amazon SQS	名詞
+SQS	Amazon SQS	名詞
+すてっぷふぁんくしょんず	AWS Step Functions	名詞
+すてっぷふぁんくしょん	AWS Step Functions	名詞
+えすだぶりゅーえふ	Amazon SWF	名詞
+SWF	Amazon SWF	名詞
+ちゃいむ	Amazon Chime	名詞
+わーくめーる	Amazon WorkMail	名詞
+ぐらうんどすてーしょん	AWS Ground Station	名詞
+ろぼめーかー	AWS RoboMaker	名詞
+まねーじどぶろっくちぇーん	Amazon Managed Blockchain	名詞
+げーむりふと	Amazon GameLift	名詞
+らんばーやーど	Amazon Lumberyard	名詞
+あいおーてぃーこあ	AWS IoT Core	名詞
+IOTこあ	AWS IoT Core	名詞
+ふりーあーるてぃーおーえす	Amazon FreeRTOS	名詞
+ふりーRTOS	Amazon FreeRTOS	名詞
+あいおーてぃーあなりてぃくす	AWS IoT Analytics	名詞
+IOTあなりてぃくす	AWS IoT Analytics	名詞
+あいおーてぃーでばいすでぃふぇんだー	AWS IoT Device Defender	名詞
+IOTでばいすでぃふぇんだー	AWS IoT Device Defender	名詞
+あいおーてぃーでばいすまねーじめんと	AWS IoT Device Management	名詞
+IOTでばいすまねーじめんと	AWS IoT Device Management	名詞
+あいおーてぃーいべんつ	AWS IoT Events	名詞
+IOTいべんつ	AWS IoT Events	名詞
+あいおーてぃーいべんと	AWS IoT Events	名詞
+IOTいべんと	AWS IoT Events	名詞
+あいおーてぃーぐりーんぐらす	AWS IoT Greengrass	名詞
+IOTぐりーんぐらす	AWS IoT Greengrass	名詞
+あいおーてぃーさいとわいず	AWS IoT SiteWise	名詞
+IOTさいとわいず	AWS IoT SiteWise	名詞
+あいおーてぃーしんぐすぐらふ	AWS IoT Things Graph	名詞
+IOTしんぐすぐらふ	AWS IoT Things Graph	名詞
+あいおーてぃーわんくりっく	AWS IoT 1-Click	名詞
+IOT1くりっく	AWS IoT 1-Click	名詞
+こねくと	Amazon Connect	名詞
+しんぷるいーめーるさーびす	Amazon Simple Email Service (Amazon SES)	名詞
+えすいーえす	Amazon Simple Email Service (Amazon SES)	名詞
+SES	Amazon Simple Email Service (Amazon SES)	名詞
+すめりあん	Amazon Sumerian	名詞
