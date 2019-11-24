@@ -7,7 +7,7 @@ ECR	ECR	名詞
 ECS	ECS	名詞
 いーけーえす	EKS	名詞
 EKS	EKS	名詞
-えらすてぃっくびーんずとーく	Elastic Beanstalk	名詞
+エラスティックビーンズトーク	Elastic Beanstalk	名詞
 びーんずとーく	Elastic Beanstalk	名詞
 らむだ	Lambda	名詞
 ろーんちうぃざーど	Launch Wizard	名詞
@@ -123,7 +123,6 @@ KMS	Key Management Service (AWS KMS)	名詞
 まいぐれーしょんはぶ	Migration Hub	名詞
 すきーまこんばーじょんつーる	Schema Conversion Tool	名詞
 さーばまいぐれーしょんさーびす	Server Migration Service	名詞
-すのーぼーる	Snowball	名詞
 とらんすふぁーふぉーえすえふてぃーぴー	Transfer for SFTP	名詞
 とらんすふぁーふぉーSFTP	Transfer for SFTP	名詞
 SFTP	Transfer for SFTP	名詞
@@ -175,12 +174,9 @@ EMR	EMR	名詞
 えむえすけー	MSK	名詞
 MSK	MSK	名詞
 くいっくさいと	QuickSight	名詞
-れっどしふと	Redshift	名詞
 いべんとぶりっじ	EventBridge	名詞
 えむきゅー	MQ	名詞
 MQ	MQ	名詞
-えすえぬえす	SNS	名詞
-SNS	SNS	名詞
 えすきゅーえす	SQS	名詞
 SQS	SQS	名詞
 すてっぷふぁんくしょんず	Step Functions	名詞

@@ -4,7 +4,7 @@ AWS	Batch	ばっち
 Amazon	ECR	いーしーあーる	ECR		
 Amazon	ECS	いーしーえす	ECS		
 Amazon	EKS	いーけーえす	EKS		
-AWS	Elastic Beanstalk	えらすてぃっくびーんずとーく	びーんずとーく		
+AWS	Elastic Beanstalk	エラスティックビーンズトーク	びーんずとーく		
 AWS	Lambda	らむだ			
 AWS	Launch Wizard	ろーんちうぃざーど			
 Amazon	Lightsail	らいとせいる			
@@ -95,7 +95,6 @@ AWS	DataSync	でーたしんく
 AWS	Migration Hub	まいぐれーしょんはぶ			
 AWS	Schema Conversion Tool	すきーまこんばーじょんつーる			
 AWS	Server Migration Service	さーばまいぐれーしょんさーびす			
-AWS	Snowball	すのーぼーる			
 AWS	Transfer for SFTP	とらんすふぁーふぉーえすえふてぃーぴー	とらんすふぁーふぉーSFTP	SFTP	
 AWS	Amplify	あんぷりふぁい			
 AWS	AppSync	あっぷしんく			
@@ -135,10 +134,8 @@ Amazon	Kinesis	きねしす
 AWS	Lake Formation	れいくふぉーめーしょん			
 Amazon	MSK	えむえすけー	MSK		
 Amazon	QuickSight	くいっくさいと			
-Amazon	Redshift	れっどしふと			
 Amazon	EventBridge	いべんとぶりっじ			
 Amazon	MQ	えむきゅー	MQ		
-Amazon	SNS	えすえぬえす	SNS		
 Amazon	SQS	えすきゅーえす	SQS		
 AWS	Step Functions	すてっぷふぁんくしょんず	すてっぷふぁんくしょん		
 Amazon	SWF	えすだぶりゅーえふ	SWF		
