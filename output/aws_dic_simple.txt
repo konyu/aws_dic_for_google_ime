@@ -1,0 +1,219 @@
+いーしー２	EC2	名詞
+EC2	EC2	名詞
+ばっち	Batch	名詞
+いーしーあーる	ECR	名詞
+ECR	ECR	名詞
+いーしーえす	ECS	名詞
+ECS	ECS	名詞
+いーけーえす	EKS	名詞
+EKS	EKS	名詞
+エラスティックビーンズトーク	Elastic Beanstalk	名詞
+びーんずとーく	Elastic Beanstalk	名詞
+らむだ	Lambda	名詞
+ろーんちうぃざーど	Launch Wizard	名詞
+らいとせいる	Lightsail	名詞
+ぱられるくらすたー	ParallelCluster	名詞
+さーばれすあぷりけーしょんもでる	Serverless Application Model (AWS SAM)	名詞
+ざむ	Serverless Application Model (AWS SAM)	名詞
+SAM	Serverless Application Model (AWS SAM)	名詞
+さーばれすあぷりけーしょんりぽじとり	Serverless Application Repository	名詞
+えすすりー	S3	名詞
+えす３	S3	名詞
+S3	S3	名詞
+ばっくあっぷ	Backup	名詞
+いーびーえす	EBS	名詞
+EBS	EBS	名詞
+いーえふえす	EFS	名詞
+EFS	EFS	名詞
+えふえすえっくす	FSx	名詞
+FSx	FSx	名詞
+えすすりーぐれーしゃー	S3 Glacier	名詞
+ぐれーしゃー	S3 Glacier	名詞
+すのーぼーる	Snowball	名詞
+すとれーじげーとうぇい	Storage Gateway	名詞
+おーろら	Aurora	名詞
+どきゅめんとでぃーびー	DocumentDB	名詞
+どきゅめんとDB	DocumentDB	名詞
+だいなもでぃーびー	DynamoDB	名詞
+えらすてぃっくきゃっしゅ	ElastiCache	名詞
+ねぷちゅーん	Neptune	名詞
+きゅーえるでぃーびー	QLDB	名詞
+QLDB	QLDB	名詞
+あーるでぃーびー	RDS	名詞
+RDS	RDS	名詞
+れっどしふと	Redshift	名詞
+くらうどないん	Cloud9	名詞
+くらうど９	Cloud9	名詞
+こーどびるど	CodeBuild	名詞
+こーどこみっと	CodeCommit	名詞
+こーどでぷろい	CodeDeploy	名詞
+こーどぱいぷらいん	CodePipeline	名詞
+こーどすたー	CodeStar	名詞
+えっくすれい	X-Ray	名詞
+Xrei	X-Ray	名詞
+あいあむ	Identity & Access Management (AWS IAM)	名詞
+IAM	Identity & Access Management (AWS IAM)	名詞
+あーてぃふぁくと	Artifact	名詞
+こぐにと	Cognito	名詞
+でぃれくとりーさーびす	Directory Service	名詞
+ふぁいあーうぉーるまねーじゃ	Firewall Manager	名詞
+くらうどてぃくしょなり	Cloud Directory	名詞
+がーどどゅーてぃー	GuardDuty	名詞
+いんすぺくた	Inspector	名詞
+めいしー	Macie	名詞
+りそーすあくせすまねーじゃ	Resource Access Manager (AWS RAM)	名詞
+RAM	Resource Access Manager (AWS RAM)	名詞
+しーくれっとまねーじゃ	Secrets Manager	名詞
+せきゅてぃはぶ	Security Hub	名詞
+しーるど	Shield	名詞
+しんぐるさいんおん	Single Sign-On	名詞
+だぶりゅーえーえふ	WAF	名詞
+わふ	WAF	名詞
+WAF	WAF	名詞
+くらうどえいちえすえむ	CloudHSM	名詞
+くらうどHMS	CloudHSM	名詞
+キーマネージメントサービス	Key Management Service (AWS KMS)	名詞
+けーえむえす	Key Management Service (AWS KMS)	名詞
+KMS	Key Management Service (AWS KMS)	名詞
+くりぷとつーるず	Crypto Tools	名詞
+さーてぃふぃけーとまねーじゃ	Certificate Manager	名詞
+さーてぃふぃけーとまねーじゃぷらいべーとおーそりてぃー	Certificate Manager Private Certificate Authority	名詞
+こんぷりへんど	Comprehend	名詞
+でぃーぶらーにんぐAMI	Deep Learning AMI	名詞
+でぃーぶらーにんぐえーえむあい	Deep Learning AMI	名詞
+でぃーぷれんず	DeepLens	名詞
+でぃーぷれーさー	DeepRacer	名詞
+えらすてぃっくいんふぁれんす	Elastic Inference	名詞
+ふぉーきゃすと	Forecast	名詞
+れっくす	Lex	名詞
+ましんらーにんぐ	Machine Learning	名詞
+ぱーそならいず	Personalize	名詞
+ぽりー	Polly	名詞
+れくごにくしょん	Rekognition	名詞
+せーじめーかー	SageMaker	名詞
+てきすとらくと	Textract	名詞
+とらんすくらいぶ	Transcribe	名詞
+とらんすれーと	Translate	名詞
+おーとすけーりんぐ	Auto Scaling	名詞
+ちゃっとぼっと	Chatbot	名詞
+くらうどふぉーめーしょん	CloudFormation	名詞
+くらうどとれいる	CloudTrail	名詞
+くらうどうぉっち	CloudWatch	名詞
+こんふぃぐ	Config	名詞
+こんとろーるたわー	Control Tower	名詞
+でーたらいふさいくるまねーじゃ	Data Lifecycle Manager	名詞
+へるす	Health	名詞
+らいせんすまねーじゃ	License Manager	名詞
+まねーじめんとこんそーる	Management Console	名詞
+おぷすわーくす	OpsWorks	名詞
+おーがにぜーしょん	Organizations	名詞
+りそーすぐるーぷす	Resource Groups	名詞
+りそーすぐるーぷ	Resource Groups	名詞
+りそーすぐるーぷすたぎんぐえーぴーあい	Resource Groups Tagging API	名詞
+りそーすぐるーぷたぎんぐえーぴーあい	Resource Groups Tagging API	名詞
+さーびすかたろぐ	Service Catalog	名詞
+さーびすくおーたす	Service Quotas	名詞
+しすてむすまねーじゃ	Systems Manager	名詞
+しすてむまねーじゃ	Systems Manager	名詞
+とらすてぃっどあどばいざー	Trusted Advisor	名詞
+うぇるあーきてくてっどつーる	Well-Architected Tool	名詞
+あぷりけーしょんでぃすかばりーさーびす	Application Discovery Service	名詞
+でーたべーすまいぐれーしょんさーびす	Database Migration Service	名詞
+でーたしんく	DataSync	名詞
+まいぐれーしょんはぶ	Migration Hub	名詞
+すきーまこんばーじょんつーる	Schema Conversion Tool	名詞
+さーばまいぐれーしょんさーびす	Server Migration Service	名詞
+とらんすふぁーふぉーえすえふてぃーぴー	Transfer for SFTP	名詞
+とらんすふぁーふぉーSFTP	Transfer for SFTP	名詞
+SFTP	Transfer for SFTP	名詞
+あんぷりふぁい	Amplify	名詞
+あっぷしんく	AppSync	名詞
+でばいすふぁーむ	Device Farm	名詞
+ぴんぽいんと	Pinpoint	名詞
+えすえぬえす	SNS	名詞
+SNS	SNS	名詞
+えーぴーあいげーとうぇい	API Gateway	名詞
+APIげーとうぇい	API Gateway	名詞
+あっぷめっしゅ	App Mesh	名詞
+くらうどまっぷ	Cloud Map	名詞
+くらうどふろんと	CloudFront	名詞
+だいれくとこねくと	Direct Connect	名詞
+えらすてぃっくろーどばらんしんぐ	Elastic Load Balancing	名詞
+ELB	Elastic Load Balancing	名詞
+ぐろーばるあくせられーたー	Global Accelerator	名詞
+るーと５３	Route 53	名詞
+ぶいぴーしー	VPC	名詞
+VPC	VPC	名詞
+ぶいぴーえぬ	VPN	名詞
+VPN	VPN	名詞
+えらすてぃっくとらんすこーだー	Elastic Transcoder	名詞
+えれめんたるめでぃあこねくと	Elemental MediaConnect	名詞
+えれめんたるめでぃあこんばーと	Elemental MediaConvert	名詞
+えれめんたるめでぃあらいぶ	Elemental MediaLive	名詞
+えれめんたるめでぃあぱっけーじ	Elemental MediaPackage	名詞
+えれめんたるめでぃあすとあ	Elemental MediaStore	名詞
+えれめんたるめでぃあていらー	Elemental MediaTailor	名詞
+わーくすぺーしす	WorkSpaces	名詞
+わーくすぺーす	WorkSpaces	名詞
+あっぷすとりーむ	AppStream 2.0	名詞
+わーくどっくす	WorkDocs	名詞
+わーくどっく	WorkDocs	名詞
+わーくりんく	WorkLink	名詞
+わむ	WAM	名詞
+WAM	WAM	名詞
+あてな	Athena	名詞
+くらうどさーち	CloudSearch	名詞
+でーたえくすちぇんじ	Data Exchange	名詞
+でーたぱいぷらいん	Data Pipeline	名詞
+えらすてぃっくさーびす	Elasticsearch Service	名詞
+いーえむあーる	EMR	名詞
+EMR	EMR	名詞
+ぐるー	Glue	名詞
+きねしす	Kinesis	名詞
+れいくふぉーめーしょん	Lake Formation	名詞
+えむえすけー	MSK	名詞
+MSK	MSK	名詞
+くいっくさいと	QuickSight	名詞
+いべんとぶりっじ	EventBridge	名詞
+えむきゅー	MQ	名詞
+MQ	MQ	名詞
+えすきゅーえす	SQS	名詞
+SQS	SQS	名詞
+すてっぷふぁんくしょんず	Step Functions	名詞
+すてっぷふぁんくしょん	Step Functions	名詞
+えすだぶりゅーえふ	SWF	名詞
+SWF	SWF	名詞
+ちゃいむ	Chime	名詞
+わーくめーる	WorkMail	名詞
+ぐらうんどすてーしょん	Ground Station	名詞
+ろぼめーかー	RoboMaker	名詞
+まねーじどぶろっくちぇーん	Managed Blockchain	名詞
+げーむりふと	GameLift	名詞
+らんばーやーど	Lumberyard	名詞
+あいおーてぃーこあ	IoT Core	名詞
+IOTこあ	IoT Core	名詞
+ふりーあーるてぃーおーえす	FreeRTOS	名詞
+ふりーRTOS	FreeRTOS	名詞
+あいおーてぃーあなりてぃくす	IoT Analytics	名詞
+IOTあなりてぃくす	IoT Analytics	名詞
+あいおーてぃーでばいすでぃふぇんだー	IoT Device Defender	名詞
+IOTでばいすでぃふぇんだー	IoT Device Defender	名詞
+あいおーてぃーでばいすまねーじめんと	IoT Device Management	名詞
+IOTでばいすまねーじめんと	IoT Device Management	名詞
+あいおーてぃーいべんつ	IoT Events	名詞
+IOTいべんつ	IoT Events	名詞
+あいおーてぃーいべんと	IoT Events	名詞
+IOTいべんと	IoT Events	名詞
+あいおーてぃーぐりーんぐらす	IoT Greengrass	名詞
+IOTぐりーんぐらす	IoT Greengrass	名詞
+あいおーてぃーさいとわいず	IoT SiteWise	名詞
+IOTさいとわいず	IoT SiteWise	名詞
+あいおーてぃーしんぐすぐらふ	IoT Things Graph	名詞
+IOTしんぐすぐらふ	IoT Things Graph	名詞
+あいおーてぃーわんくりっく	IoT 1-Click	名詞
+IOT1くりっく	IoT 1-Click	名詞
+こねくと	Connect	名詞
+しんぷるいーめーるさーびす	Simple Email Service (Amazon SES)	名詞
+えすいーえす	Simple Email Service (Amazon SES)	名詞
+SES	Simple Email Service (Amazon SES)	名詞
+すめりあん	Sumerian	名詞
