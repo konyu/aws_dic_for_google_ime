@@ -9,6 +9,8 @@ ECS	ECS	名詞
 EKS	EKS	名詞
 エラスティックビーンズトーク	Elastic Beanstalk	名詞
 びーんずとーく	Elastic Beanstalk	名詞
+えらすてぃっくびーんすとーく	Elastic Beanstalk	名詞
+びーんすとーく	Elastic Beanstalk	名詞
 らむだ	Lambda	名詞
 ろーんちうぃざーど	Launch Wizard	名詞
 らいとせいる	Lightsail	名詞
@@ -36,6 +38,7 @@ FSx	FSx	名詞
 どきゅめんとDB	DocumentDB	名詞
 だいなもでぃーびー	DynamoDB	名詞
 えらすてぃっくきゃっしゅ	ElastiCache	名詞
+えらすてぃっきゃっしゅ	ElastiCache	名詞
 ねぷちゅーん	Neptune	名詞
 きゅーえるでぃーびー	QLDB	名詞
 QLDB	QLDB	名詞

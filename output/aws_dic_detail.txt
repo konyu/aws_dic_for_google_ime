@@ -9,6 +9,8 @@ ECS	Amazon ECS	名詞
 EKS	Amazon EKS	名詞
 エラスティックビーンズトーク	AWS Elastic Beanstalk	名詞
 びーんずとーく	AWS Elastic Beanstalk	名詞
+えらすてぃっくびーんすとーく	AWS Elastic Beanstalk	名詞
+びーんすとーく	AWS Elastic Beanstalk	名詞
 らむだ	AWS Lambda	名詞
 ろーんちうぃざーど	AWS Launch Wizard	名詞
 らいとせいる	Amazon Lightsail	名詞
@@ -36,6 +38,7 @@ FSx	Amazon FSx	名詞
 どきゅめんとDB	Amazon DocumentDB	名詞
 だいなもでぃーびー	Amazon DynamoDB	名詞
 えらすてぃっくきゃっしゅ	Amazon ElastiCache	名詞
+えらすてぃっきゃっしゅ	Amazon ElastiCache	名詞
 ねぷちゅーん	Amazon Neptune	名詞
 きゅーえるでぃーびー	Amazon QLDB	名詞
 QLDB	Amazon QLDB	名詞

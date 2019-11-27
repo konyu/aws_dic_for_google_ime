@@ -4,7 +4,7 @@ AWS	Batch	ばっち
 Amazon	ECR	いーしーあーる	ECR		
 Amazon	ECS	いーしーえす	ECS		
 Amazon	EKS	いーけーえす	EKS		
-AWS	Elastic Beanstalk	エラスティックビーンズトーク	びーんずとーく		
+AWS	Elastic Beanstalk	エラスティックビーンズトーク	びーんずとーく	えらすてぃっくびーんすとーく	びーんすとーく
 AWS	Lambda	らむだ			
 AWS	Launch Wizard	ろーんちうぃざーど			
 Amazon	Lightsail	らいとせいる			
@@ -22,7 +22,7 @@ AWS	Storage Gateway	すとれーじげーとうぇい
 Amazon	Aurora	おーろら			
 Amazon	DocumentDB	どきゅめんとでぃーびー	どきゅめんとDB		
 Amazon	DynamoDB	だいなもでぃーびー			
-Amazon	ElastiCache	えらすてぃっくきゃっしゅ			
+Amazon	ElastiCache	えらすてぃっくきゃっしゅ	えらすてぃっきゃっしゅ		
 Amazon	Neptune	ねぷちゅーん			
 Amazon	QLDB	きゅーえるでぃーびー	QLDB		
 Amazon	RDS	あーるでぃーびー	RDS		
