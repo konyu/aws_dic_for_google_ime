@@ -5,8 +5,8 @@ INPUT_FILE_PATH = "./input/aws_services_name_base.tsv"
 OUPTPUT_DETAIL_FILE_PATH = "./output/aws_dic_detail.txt"
 OUPTPUT_SIMPLE_FILE_PATH = "./output/aws_dic_simple.txt"
 
-OUPTPUT_DETAIL_JSON_FILE_PATH = "./output/aws_dic_detail.json"
-OUPTPUT_SIMPLE_JSON_FILE_PATH = "./output/aws_dic_simple.json"
+OUPTPUT_DETAIL_JSON_FILE_PATH = "./site/src/static/output/aws_dic_detail.json"
+OUPTPUT_SIMPLE_JSON_FILE_PATH = "./site/src/static/output/aws_dic_simple.json"
 
 class DicCreater
   attr_reader :detail_arr, :simple_arr

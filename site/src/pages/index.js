@@ -35,7 +35,7 @@ export default class IndexPage extends React.Component {
         btext: display_data,
       })
     }
-
+    console.log(simple_data)
     if(display_simple_data){
       this.setState({
         ctext: display_simple_data,
