@@ -57,14 +57,19 @@ CSV.open(OUPTPUT_SIMPLE_FILE_PATH, "w", :col_sep => "\t") do |io|
   dc.simple_arr.each { |row| io.puts(row) }
 end
 
+# def convert_json(arr)
+#   hash = {}
+#   arr.each do |cell|
+#     hash[cell[0]] = cell[1]
+#   end
+#   hash.to_json
+# end
 def convert_json(arr)
-  hash = {}
-  arr.each do |cell|
-    hash[cell[0]] = cell[1]
+  result = arr.map do |cell|
+    { key: cell[0], val: cell[1] }
   end
-  hash.to_json
+  result.to_json
 end
-
 
 File.open(OUPTPUT_DETAIL_JSON_FILE_PATH, "w") do |text|
   text.puts convert_json(dc.detail_arr)

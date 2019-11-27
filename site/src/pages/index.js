@@ -11,35 +11,50 @@ import simple_data from "../static/output/aws_dic_simple";
 export default class IndexPage extends React.Component {
   state = {
     atext: "",
-    btext: "",
-    ctext: "",
+    btext: [],
+    ctext: [],
   }
   handleInputChange = event => {
     const target = event.target
     const value = target.value
     const name = target.name
 
-    console.log(target)
-    console.log(value)
-    console.log(name)
-
     this.setState({
       [name]: value,
     })
     
-    var display_data = detail_data[value]
-    var display_simple_data = simple_data[value]
-
-    if(display_data){
-      this.setState({btext: display_data})
-    } else {
-      this.setState({btext: ""})
+    var detail_arr = []
+    if(value.length > 0){
+      detail_arr = detail_data.filter(
+        (e) => {
+          if(!e.key.indexOf(value) ){
+            return true;
+          }
+        }
+      )
     }
-    // console.log(simple_data)
-    if(display_simple_data){
-      this.setState({ctext: display_simple_data,})
+
+    var simple_arr = []
+    if(value.length > 0){
+      simple_arr = simple_data.filter(
+        (e) => {
+          if(!e.key.indexOf(value) ){
+            return true;
+          }
+        }
+      )
+    }
+
+    if(detail_arr.length > 0) {
+      this.setState({btext: detail_arr })
     } else {
-      this.setState({ctext: ""}) 
+      this.setState({btext: []})
+    }
+
+    if(simple_arr.length > 0) {
+      this.setState({ctext: simple_arr})
+    } else {
+      this.setState({ctext: []}) 
     }
   }
 
@@ -50,11 +65,30 @@ export default class IndexPage extends React.Component {
         <p> 
           <input type="text" name="atext" value={this.state.atext}
                           onChange={this.handleInputChange} />
-                          {/* {(e) => this.setState({text: e.target.value})}/> */}
         </p>
 
-        <h1><p>詳細バージョン</p>{this.state.btext}</h1>
-        <h1><p>シンプルバージョン</p>{this.state.ctext}</h1>        
+        <div class="container">
+          <div class="item">
+          <h2>接頭語付き</h2>
+            <p>
+              <ul>
+                {this.state.btext.map((data) => {
+                  return <li>{data.val}</li>;
+                })}
+              </ul>
+            </p>
+          </div>
+          <div class="item">
+            <h2>シンプル</h2>
+            <p>
+              <ul>
+                {this.state.ctext.map((data) => {
+                  return <li>{data.val}</li>;
+                })}
+              </ul>
+            </p>
+          </div>
+        </div>
       </Layout>
     )
   }

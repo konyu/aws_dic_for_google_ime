@@ -8,6 +8,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.container {
+  display: flex;
+}
+.item {
+  margin: 1rem;
+}
+
 article,
 aside,
 details,
@@ -179,9 +187,11 @@ textarea {
 
 [type="text"] {
   box-sizing: border-box;
-  padding: 0;
+  padding: 0 1rem;
+  height: 3rem;
   width: 100%;
   display: inline-block;
+
 }
 ::-webkit-input-placeholder {
   color: inherit;
