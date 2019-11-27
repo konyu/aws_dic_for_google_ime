@@ -31,15 +31,15 @@ export default class IndexPage extends React.Component {
     var display_simple_data = simple_data[value]
 
     if(display_data){
-      this.setState({
-        btext: display_data,
-      })
+      this.setState({btext: display_data})
+    } else {
+      this.setState({btext: ""})
     }
-    console.log(simple_data)
+    // console.log(simple_data)
     if(display_simple_data){
-      this.setState({
-        ctext: display_simple_data,
-      })
+      this.setState({ctext: display_simple_data,})
+    } else {
+      this.setState({ctext: ""}) 
     }
   }
 
@@ -47,47 +47,15 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <SEO title="Home" />
-        <h1>Hi people</h1>
-
-        <h1><p>詳細バージョン</p>{this.state.btext}</h1>
-        <h1><p>シンプルバージョン</p>{this.state.ctext}</h1>
-
-        <input type="text" name="atext" value={this.state.atext}
+        <p> 
+          <input type="text" name="atext" value={this.state.atext}
                           onChange={this.handleInputChange} />
                           {/* {(e) => this.setState({text: e.target.value})}/> */}
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-          <Image />
-        </div>
-        <Link to="/page-2/">Go to page 2</Link>
+        </p>
+
+        <h1><p>詳細バージョン</p>{this.state.btext}</h1>
+        <h1><p>シンプルバージョン</p>{this.state.ctext}</h1>        
       </Layout>
     )
   }
-} 
-
-// export default IndexPage
-
-
-// export default class IndexPage extends React.Component {
-//   state = {
-//     firstName: "",
-//     lastName: "",
-//   }
-
-//   render() {
-//     return (
-//       <form>
-//         <label>
-//           First name
-//           <input type="text" name="firstName" />
-//         </label>
-//         <label>
-//           Last name
-//           <input type="text" name="lastName" />
-//         </label>
-//         <button type="submit">Submit</button>
-//       </form>
-//     )
-//   }
-// }
+}
