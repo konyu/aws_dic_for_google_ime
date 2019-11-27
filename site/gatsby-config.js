@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/aws_dic_for_google_ime",
   siteMetadata: {
     title: `AWSサービスIME辞書デモサイト`,
     description: `AWSのサービス多すぎ`,
