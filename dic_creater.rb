@@ -1,7 +1,12 @@
 require "csv"
+require 'json'
+
 INPUT_FILE_PATH = "./input/aws_services_name_base.tsv"
 OUPTPUT_DETAIL_FILE_PATH = "./output/aws_dic_detail.txt"
 OUPTPUT_SIMPLE_FILE_PATH = "./output/aws_dic_simple.txt"
+
+OUPTPUT_DETAIL_JSON_FILE_PATH = "./output/aws_dic_detail.json"
+OUPTPUT_SIMPLE_JSON_FILE_PATH = "./output/aws_dic_simple.json"
 
 class DicCreater
   attr_reader :detail_arr, :simple_arr
@@ -44,13 +49,27 @@ input.each do  |row|
   dc.separate_row_data(row)
 end
 
-# dc.detail_arr
-# dc.simple_arr
-
 CSV.open(OUPTPUT_DETAIL_FILE_PATH, "w", :col_sep => "\t") do |io|
   dc.detail_arr.each { |row| io.puts(row) }
 end
 
 CSV.open(OUPTPUT_SIMPLE_FILE_PATH, "w", :col_sep => "\t") do |io|
   dc.simple_arr.each { |row| io.puts(row) }
+end
+
+def convert_json(arr)
+  hash = {}
+  arr.each do |cell|
+    hash[cell[0]] = cell[1]
+  end
+  hash.to_json
+end
+
+
+File.open(OUPTPUT_DETAIL_JSON_FILE_PATH, "w") do |text|
+  text.puts convert_json(dc.detail_arr)
+end
+
+File.open(OUPTPUT_SIMPLE_JSON_FILE_PATH, "w") do |text|
+  text.puts convert_json(dc.simple_arr)
 end
