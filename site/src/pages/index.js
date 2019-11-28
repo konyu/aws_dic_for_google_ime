@@ -9,6 +9,11 @@ import GitHubButton from 'react-github-btn'
 import detail_data from "../static/output/aws_dic_detail"; 
 import simple_data from "../static/output/aws_dic_simple"; 
 
+import {
+  TwitterShareButton,
+  TwitterIcon
+} from 'react-share';
+
 export default class IndexPage extends React.Component {
   state = {
     atext: "",
@@ -66,6 +71,9 @@ export default class IndexPage extends React.Component {
         <div className="container">
           <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime" data-icon="octicon-star" data-size="large" aria-label="Star konyu/aws_dic_for_google_ime on GitHub">Star</GitHubButton>
           <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork konyu/aws_dic_for_google_ime on GitHub">Fork</GitHubButton>
+          <TwitterShareButton title="AWSサービスIME辞書デモ" via="kon_yu" url="https://konyu.github.io/aws_dic_for_google_ime/" hashtags={["AWS辞書", "クソアプリ"]} >
+            <TwitterIcon size={32} round={true} />
+          </TwitterShareButton>
         </div>
         <p> 
           <input type="text" name="atext" value={this.state.atext}
