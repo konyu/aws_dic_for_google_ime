@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import GitHubButton from 'react-github-btn'
 
 import detail_data from "../static/output/aws_dic_detail"; 
 import simple_data from "../static/output/aws_dic_simple"; 
@@ -62,31 +63,35 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <SEO title="Home" />
+        <div className="container">
+          <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime" data-icon="octicon-star" data-size="large" aria-label="Star konyu/aws_dic_for_google_ime on GitHub">Star</GitHubButton>
+          <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork konyu/aws_dic_for_google_ime on GitHub">Fork</GitHubButton>
+        </div>
         <p> 
           <input type="text" name="atext" value={this.state.atext}
                           onChange={this.handleInputChange} />
         </p>
 
-        <div class="container">
-          <div class="item">
+        <div className="container">
+          <div className="item">
           <h2>接頭語付き</h2>
-            <p>
+            <div>
               <ul>
                 {this.state.btext.map((data) => {
-                  return <li>{data.val}</li>;
+                  return <li key={data.key}>{data.val}</li>;
                 })}
               </ul>
-            </p>
+            </div>
           </div>
-          <div class="item">
+          <div className="item">
             <h2>シンプル</h2>
-            <p>
+            <div>
               <ul>
                 {this.state.ctext.map((data) => {
-                  return <li>{data.val}</li>;
+                  return <li key={data.key}>{data.val}</li>;
                 })}
               </ul>
-            </p>
+            </div>
           </div>
         </div>
       </Layout>
