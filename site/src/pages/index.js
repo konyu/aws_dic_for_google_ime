@@ -67,7 +67,7 @@ export default class IndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <SEO title="Home" />
+        <SEO title="AWSサービスIME辞書デモ" />
         <div className="container">
           <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime" data-icon="octicon-star" data-size="large" aria-label="Star konyu/aws_dic_for_google_ime on GitHub">Star</GitHubButton>
           <GitHubButton href="https://github.com/konyu/aws_dic_for_google_ime/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork konyu/aws_dic_for_google_ime on GitHub">Fork</GitHubButton>
@@ -75,6 +75,12 @@ export default class IndexPage extends React.Component {
             <TwitterIcon size={32} round={true} />
           </TwitterShareButton>
         </div>
+        <p>
+          テキストエリアにひらがなでAWSのサービス名を入力してみてください。<br/>
+          githubリポジトリはこちら。
+          <a href="https://github.com/konyu/aws_dic_for_google_ime">https://github.com/konyu/aws_dic_for_google_ime</a>
+        </p>
+
         <p> 
           <input type="text" name="atext" value={this.state.atext}
                           onChange={this.handleInputChange} />
